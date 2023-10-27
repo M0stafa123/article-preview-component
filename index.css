@@ -97,7 +97,7 @@ main > div:last-of-type {
       color: hsl(212, 23%, 69%);
       gap: 24px;
       top: -35px;
-      right: -44px;
+      right: -24px;
       display: none;
       & img {
         cursor: pointer;
@@ -108,7 +108,7 @@ main > div:last-of-type {
         border: 10px solid;
         border-color: hsl(217, 19%, 35%) transparent transparent transparent;
         top: 41px;
-        right: 77px;
+        right: 56px;
       }
     }
   }
