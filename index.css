@@ -22,6 +22,7 @@ main {
   & img {
     width: 100%;
     height: 100%;
+    border-radius: 6px 0 0 6px;
   }
 }
 main > div:last-of-type {
