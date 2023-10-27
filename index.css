@@ -165,8 +165,6 @@ main > div:last-of-type {
   main > div:last-of-type section div:nth-of-type(2) h2 {
     font-size: 13px;
   }
-  .heading {
-  }
   .content {
     font-size: 13px;
   }
